@@ -24,7 +24,7 @@
 #     - name: Test
 #       run: mvn test
 
-name: CI
+name: CI test
 on:
   push:
     branches: [ main ]
